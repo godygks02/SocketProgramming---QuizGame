@@ -1,0 +1,8 @@
+Which of the following descriptions below correspond to a "nuts-and-bolts" view of the Internet? Select one answer below that are correct. 
+(Hint: Answer type is one integer. EX: 1)
+
+1. A platform for building network applications.
+
+2. A place I go for information, entertainment, and to communicate with people.
+
+3. A "network of networks".

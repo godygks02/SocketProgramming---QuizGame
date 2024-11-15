@@ -1,0 +1,8 @@
+Which of the following descriptions below correspond to a "services" view of the Internet? Select one answer below below that are correct below that are correct.
+(Hint: Answer type is one integer. EX: 1)
+
+1. A collection of hardware and software components executing protocols that define the format and the order of messages exchanged between two or more communicating entities, as well as the actions taken on the transmission and/or receipt of a message or other event.
+
+2. place I go for information, entertainment, and to communicate with people.
+
+3. A "network of networks".

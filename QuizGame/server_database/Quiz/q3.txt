@@ -1,0 +1,14 @@
+Which of the following physical layer technologies has the highest transmission rate and lowest bit error rate in practice?
+(Hint: Answer type is one integer. EX: 1)
+
+1. Coaxial cable
+
+2. Satellite channel
+
+3. Twisted pair (e.g., CAT5, CAT6)
+
+4. 802.11 WiFi Channel
+
+5. Fiber optic cable
+
+6. 4G/5G cellular

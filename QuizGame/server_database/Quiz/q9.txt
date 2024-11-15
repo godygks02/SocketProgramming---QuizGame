@@ -1,0 +1,4 @@
+Consider that a single router is transmitting packets, each of length L bits, over a single link with transmission rate R Mbps to another router at the other end of the link.
+Suppose that the packet length is L = 10000 bits, and that the link transmission rate along the link to router on the right is R = 1 Mbps.
+What is the maximum number of packets per second that can be transmitted by this link?
+(Hint: Answer type is one integer. EX: 10)

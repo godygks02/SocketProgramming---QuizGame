@@ -1,0 +1,13 @@
+Consider the circuit-switched network with four circuit switches A, B, C, and D. Suppose there are 20 circuits between A and B, 19 circuits between B and C, 15 circuits between C and D, and 16 circuits between D and A.
+What is the maximum number of connections that can be ongoing in the network at any one time?
+(Hint: Answer type is one integer. EX: 1)
+
+1. 31
+
+2. 19
+
+3. 35
+
+4. 70
+
+5. 39

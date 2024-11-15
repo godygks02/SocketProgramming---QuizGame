@@ -1,0 +1,12 @@
+Which of the characteristics below are associated with the technique of circuit switching? Select one correct answers.
+(Hint: Answer type is one integer. EX: 1)
+
+1. Resources are used on demand, not reserved in advance.
+
+2. This technique was the basis for the telephone call switching during the 20th century and into the beginning of this current century.
+
+3. Congestion loss and variable end-end delays are possible with this technique.
+
+4. Data may be queued before being transmitted due to other user’s data that’s also queueing for transmission.
+
+5. This technique is used in the Internet.

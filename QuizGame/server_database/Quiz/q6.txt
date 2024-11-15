@@ -1,0 +1,3 @@
+Write the function of a layer in the Internet protocol stack.
+Q: Protocols that are part of a distributed network application?
+(Hint: Answer type is "A layer". You must write answer of type "~ layer")

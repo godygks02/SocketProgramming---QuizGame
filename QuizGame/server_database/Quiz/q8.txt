@@ -1,0 +1,3 @@
+Write the description of each component of packet delay to its name in the pull down list.
+Q: Time need for bits to physically propagate through the transmission medium from end one of a link to the other.
+(Hint: Answer type is "A delay". You must write answer of type "~ delay")

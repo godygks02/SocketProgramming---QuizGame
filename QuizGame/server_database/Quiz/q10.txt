@@ -1,0 +1,2 @@
+How many RTTs are there from when a client first contacts an email server (by initiating a TCP session) to when the client can begin sending the email message itself – that is following all initial TCP or SMTP handshaking required?
+(Hint: Answer type is one integer. EX: 10)
